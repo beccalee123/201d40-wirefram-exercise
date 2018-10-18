@@ -1,2 +1,2 @@
-# 201d40-wirefram-exercise
+# 201d40-wireframe-exercise
 Wireframe exercise for 201d40
